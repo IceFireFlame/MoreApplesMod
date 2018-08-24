@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "age=0": { "model": "redappleplant_stage0" },
+        "age=1": { "model": "redappleplant_stage1" },
+        "age=2": { "model": "redappleplant_stage2" },
+        "age=3": { "model": "redappleplant_stage3" },
+        "age=4": { "model": "redappleplant_stage4" },
+        "age=5": { "model": "redappleplant_stage5" },
+        "age=6": { "model": "redappleplant_stage6" },
+        "age=7": { "model": "redappleplant_stage7" }
+    }
+}

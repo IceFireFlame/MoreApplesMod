@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ma",
+  "name": "More Apples",
+  "description": "Ever wanted more apples in Minecraft? Well now you can get them!",
+  "version": "1.1",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Icearrow26, xFrostbitePlayzx"],
+  "credits": "Icearrow26 and xFrostbitePlayzx made more apples possible.. (says BuzzFeed news)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

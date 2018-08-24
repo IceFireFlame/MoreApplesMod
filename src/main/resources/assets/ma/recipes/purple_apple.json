@@ -1,0 +1,21 @@
+{
+     "type": "minecraft:crafting_shaped",
+     
+     "pattern":
+     [
+      "A"
+     ],
+     "key":
+     {       
+        "A":
+        {
+            "item": "ma:purple_apple_block"
+        }
+     },
+     
+     "result":
+     {
+        "item": "ma:purple_apple",
+        "count": 9
+     }
+}

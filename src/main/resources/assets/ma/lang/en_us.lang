@@ -1,0 +1,85 @@
+//apples
+item.yellow_apple.name=Yellow Apple
+item.green_apple.name=Green Apple
+item.purple_apple.name=Purple Apple
+//blocks
+tile.yellow_apple_block.name=Block of Yellow Apples
+tile.green_apple_block.name=Block of Green Apples
+tile.purple_apple_block.name=Block of Purple Apples
+//base
+tile.base_apple_block.name=Apple Base Block
+//burnt apples
+item.burnt_red_apple.name=Burnt Red Apple
+item.burnt_green_apple.name=Burnt Green Apple
+item.burnt_purple_apple.name=Burnt Purple Apple
+item.burnt_yellow_apple.name=Burnt Yellow Apple
+//tools
+//red
+item.red_apple_sword.name=Red Apple Sword
+item.red_apple_shovel.name=Red Apple Shovel
+item.red_apple_axe.name=Red Apple Axe
+item.red_apple_hoe.name=Red Apple Hoe
+item.red_apple_pickaxe.name=Red Apple Pickaxe
+//yellow
+item.yellow_apple_sword.name=Yellow Apple Sword
+item.yellow_apple_shovel.name=Yelllow Apple Shovel
+item.yellow_apple_axe.name=Yellow Apple Axe
+item.yellow_apple_hoe.name=Yellow Apple Hoe
+item.yellow_apple_pickaxe.name=Yellow Apple Pickaxe
+//green
+item.green_apple_sword.name=Green Apple Sword
+item.green_apple_shovel.name=Green Apple Shovel
+item.green_apple_axe.name=Green Apple Axe
+item.green_apple_hoe.name=Green Apple Hoe
+item.green_apple_pickaxe.name=Green Apple Pickaxe
+//purple
+item.purple_apple_sword.name=Purple Apple Sword
+item.purple_apple_shovel.name=Purple Apple Shovel
+item.purple_apple_axe.name=Purple Apple Axe
+item.purple_apple_hoe.name=Purple Apple Hoe
+item.purple_apple_pickaxe.name=Purple Apple Pickaxe
+//apple plants
+tile.apple_plant_green.name=Green Apple Plant
+tile.apple_plant_purple.name=Purple Apple Plant
+tile.apple_plant_red.name=Red Apple Plant
+tile.apple_plant_yellow.name=Yellow Apple Plant
+//tabs
+itemGroup.blocktab.name=MoreApplesBlocks
+itemGroup.armortab.name=MoreApplesArmor
+itemGroup.appletab.name=MoreApples
+//seeds
+item.red_apple_seeds.name=Red Apple Seeds
+item.yellow_apple_seeds.name=Yellow Apple Seeds
+item.purple_apple_seeds.name=Purple Apple Seeds
+item.green_apple_seeds.name=Green Apple Seeds
+//armor
+item.red_apple_helmet.name=Red Apple Helmet
+item.red_apple_chestplate.name=Red Apple Chestplate
+item.red_apple_leggings.name=Red Apple Leggings
+item.red_apple_boots.name=Red Apple Boots
+//steak
+item.red_apple_steak.name=Red Apple Steak
+item.yellow_apple_steak.name=Yellow Apple Steak
+item.purple_apple_steak.name=Purple Apple Steak
+item.green_apple_steak.name=Green Apple Steak
+//armor
+//red
+item.red_apple_boots.name=Red Apple Boots
+item.red_apple_leggings.name=Red Apple Leggings
+item.red_apple_chestplate.name=Red Apple Chestplate
+item.red_apple_helmet.name=Red Apple Helmet
+//yellow
+item.yellow_apple_boots.name=Yellow Apple Boots
+item.yellow_apple_leggings.name=Yellow Apple Leggings
+item.yellow_apple_chestplate.name=Yellow Apple Chestplate
+item.yellow_apple_helmet.name=Yellow Apple Helmet
+//green
+item.green_apple_boots.name=Green Apple Boots
+item.green_apple_leggings.name=Green Apple Leggings
+item.green_apple_chestplate.name=Green Apple Chestplate
+item.green_apple_helmet.name=Green Apple Helmet
+//purple
+item.purple_apple_boots.name=Purple Apple Boots
+item.purple_apple_leggings.name=Purple Apple Leggings
+item.purple_apple_chestplate.name=Purple Apple Chestplate
+item.purple_apple_helmet.name=Purple Apple Helmet

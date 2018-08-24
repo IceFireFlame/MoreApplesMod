@@ -1,0 +1,6 @@
+{
+   "parent": "item/generated",
+   "textures": {
+       "layer0": "ma:items/yellow_apple_leggings"
+   }
+}

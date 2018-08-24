@@ -1,0 +1,6 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "all": "ma:blocks/apple_plant_red"
+   }
+}

@@ -1,0 +1,6 @@
+{
+   "parent": "block/cube_all",
+   "textures": {
+       "all": "ma:blocks/purple_apple_block"
+   }
+}

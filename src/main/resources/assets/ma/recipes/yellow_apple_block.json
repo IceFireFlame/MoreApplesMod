@@ -1,0 +1,28 @@
+{
+     "type": "minecraft:crafting_shaped",
+     
+     "pattern":
+     [
+      "SSS",
+      "SAS",
+      "SSS"
+     ],
+     "key":
+     {
+        "S":
+        {
+            "item": "ma:base_apple_block"
+        },
+        
+        "A":
+        {
+            "item": "ma:yellow_apple"
+        }
+     },
+     
+     "result":
+     {
+        "item": "ma:yellow_apple_block",
+        "count": 1
+     }
+}
