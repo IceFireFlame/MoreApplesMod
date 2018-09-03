@@ -1,6 +1,6 @@
 {
    "parent": "item/handheld",
    "textures": {
-       "layer0": "ma:items/apple_shovel"
+       "layer0": "ma:items/purple_apple_spade"
    }
 }

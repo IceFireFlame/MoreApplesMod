@@ -64,25 +64,25 @@ public class ModItems
 	//tools
 	//red
 	public static final ItemSword RED_APPLE_SWORD = new ToolSword("red_apple_sword", RED_MATERIAL_APPLE);
-	public static final ItemSpade RED_APPLE_SHOVEL = new ToolSpade("red_apple_shovel", RED_MATERIAL_APPLE);
+	public static final ItemSpade RED_APPLE_SPADE = new ToolSpade("red_apple_spade", RED_MATERIAL_APPLE);
 	public static final ItemPickaxe RED_APPLE_PICKAXE = new ToolPickaxe("red_apple_pickaxe", RED_MATERIAL_APPLE);
 	public static final ItemAxe RED_APPLE_AXE = new ToolAxe("red_apple_axe", RED_MATERIAL_APPLE);
 	public static final ItemHoe RED_APPLE_HOE = new ToolHoe("red_apple_hoe", RED_MATERIAL_APPLE);
 	//yellow
 	public static final ItemSword YELLOW_APPLE_SWORD = new ToolSword("yellow_apple_sword", YELLOW_MATERIAL_APPLE);
-	public static final ItemSpade YELLOWAPPLE_SHOVEL = new ToolSpade("yellow_apple_shovel", YELLOW_MATERIAL_APPLE);
+	public static final ItemSpade YELLOW_APPLE_SPADE = new ToolSpade("yellow_apple_spade", YELLOW_MATERIAL_APPLE);
 	public static final ItemPickaxe YELLOW_APPLE_PICKAXE = new ToolPickaxe("yellow_apple_pickaxe", YELLOW_MATERIAL_APPLE);
 	public static final ItemAxe YELLOW_APPLE_AXE = new ToolAxe("yellow_apple_axe", YELLOW_MATERIAL_APPLE);
 	public static final ItemHoe YELLOW_APPLE_HOE = new ToolHoe("yellow_apple_hoe", YELLOW_MATERIAL_APPLE);
 	//purple
 	public static final ItemSword PURPLE_APPLE_SWORD = new ToolSword("purple_apple_sword", PURPLE_MATERIAL_APPLE);
-	public static final ItemSpade PURPLE_APPLE_SHOVEL = new ToolSpade("purple_apple_shovel", PURPLE_MATERIAL_APPLE);
+	public static final ItemSpade PURPLE_APPLE_SPADE = new ToolSpade("purple_apple_spade", PURPLE_MATERIAL_APPLE);
 	public static final ItemPickaxe PURPLE_APPLE_PICKAXE = new ToolPickaxe("purple_apple_pickaxe", PURPLE_MATERIAL_APPLE);
 	public static final ItemAxe PURPLE_APPLE_AXE = new ToolAxe("purple_apple_axe", PURPLE_MATERIAL_APPLE);
 	public static final ItemHoe PURPLE_APPLE_HOE = new ToolHoe("purple_apple_hoe", PURPLE_MATERIAL_APPLE);
 	//green
 	public static final ItemSword GREEN_APPLE_SWORD = new ToolSword("green_apple_sword", GREEN_MATERIAL_APPLE);
-	public static final ItemSpade GREEN_APPLE_SHOVEL = new ToolSpade("green_apple_shovel", GREEN_MATERIAL_APPLE);
+	public static final ItemSpade GREEN_APPLE_SPADE = new ToolSpade("green_apple_spade", GREEN_MATERIAL_APPLE);
 	public static final ItemPickaxe GREEN_APPLE_PICKAXE = new ToolPickaxe("green_apple_pickaxe", GREEN_MATERIAL_APPLE);
 	public static final ItemAxe GREEN_APPLE_AXE = new ToolAxe("green_apple_axe", GREEN_MATERIAL_APPLE);
 	public static final ItemHoe GREEN_APPLE_HOE = new ToolHoe("green_apple_hoe", GREEN_MATERIAL_APPLE);

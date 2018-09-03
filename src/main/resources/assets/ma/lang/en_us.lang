@@ -44,9 +44,9 @@ tile.apple_plant_purple.name=Purple Apple Plant
 tile.apple_plant_red.name=Red Apple Plant
 tile.apple_plant_yellow.name=Yellow Apple Plant
 //tabs
-itemGroup.blocktab.name=MoreApplesBlocks
-itemGroup.armortab.name=MoreApplesArmor
-itemGroup.appletab.name=MoreApples
+itemGroup.blocktab=MoreApplesBlocks
+itemGroup.armortab=MoreApplesArmor
+itemGroup.appletab=MoreApples
 //seeds
 item.red_apple_seeds.name=Red Apple Seeds
 item.yellow_apple_seeds.name=Yellow Apple Seeds

@@ -1,6 +1,6 @@
 {
    "parent": "item/handheld",
    "textures": {
-       "layer0": "ma:items/red_apple_pickaxe"
+       "layer0": "ma:items/purple_apple_pickaxe"
    }
 }
