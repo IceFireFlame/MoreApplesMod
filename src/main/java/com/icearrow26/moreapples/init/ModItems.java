@@ -112,4 +112,21 @@ public class ModItems
 	public static final Item  PURPLE_APPLE_CHESTPLATE = new ArmorBase4("purple_apple_chestplate", PURPLE_ARMOR_MATERIAL_APPLE, 1, EntityEquipmentSlot.CHEST);
 	public static final Item  PURPLE_APPLE_LEGGINGS = new ArmorBase4("purple_apple_leggings", PURPLE_ARMOR_MATERIAL_APPLE, 2, EntityEquipmentSlot.LEGS);
 	public static final Item  PURPLE_APPLE_BOOTS = new ArmorBase4("purple_apple_boots", PURPLE_ARMOR_MATERIAL_APPLE, 1, EntityEquipmentSlot.FEET);
+	//Oregen
+	//red
+	public static final ORE_OVERWORLD_RED_APPLE_SEEDS = new ModOres("ore_overworld_red_apple_seeds", "overworld");
+	public static final ORE_NETHER_RED_APPLE_SEEDS = new ModOres("ore_overworld_red_apple_seeds","nether");
+	public static final ORE_END_RED_APPLE_SEEDS = new ModOres("ore_end_red_apple_seeds", "end");
+	//yellow
+	public static final ORE_OVERWORLD_YELLOW_APPLE_SEEDS = new ModOres("ore_overworld_yellow_apple_seeds", "overworld");
+	public static final ORE_NETHER_YELLOW_APPLE_SEEDS = new ModOres("ore_overworld_yellow_apple_seeds","nether");
+	public static final ORE_END_YELLOW_APPLE_SEEDS = new ModOres("ore_end_yellow_apple_seeds", "end");
+	//green
+	public static final ORE_OVERWORLD_GREEN_APPLE_SEEDS = new ModOres("ore_overworld_green_apple_seeds", "overworld");
+	public static final ORE_NETHER_GREEN_APPLE_SEEDS = new ModOres("ore_overworld_green_apple_seeds","nether");
+	public static final ORE_END_GREEN_APPLE_SEEDS = new ModOres("ore_end_green_apple_seeds", "end");
+	//purple
+	public static final ORE_OVERWORLD_PURPLE_APPLE_SEEDS = new ModOres("ore_overworld_purple_apple_seeds", "overworld");
+	public static final ORE_NETHER_PURPLE_APPLE_SEEDS = new ModOres("ore_overworld_purple_apple_seeds","nether");
+	public static final ORE_END_PURPLE_APPLE_SEEDS = new ModOres("ore_end_purple_apple_seeds", "end");
 }
