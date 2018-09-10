@@ -3,7 +3,7 @@ package com.icearrow26.moreapples.blocks;
 import com.icearrow26.moreapples.Main;
 import com.icearrow26.moreapples.init.ModBlocks;
 import com.icearrow26.moreapples.init.ModItems;
-import com.icearrow26.moreapples.util.IHasModel;
+import com.icearrow26.moreapples.util.Interfaces.IHasModel;
 
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;

@@ -1,0 +1,9 @@
+{
+    "variants":
+    {
+        "variant=red_apple_seeds": {"model": "ma:ore_end_red_apple_seeds" },
+        "variant=green_apple_seeds": {"model": "ma:ore_end_green_apple_seeds" },
+        "variant=purple_apple_seeds": {"model": "ma:ore_end_purple_apple_seeds" },
+        "variant=yellow_apple_seeds": {"model": "ma:ore_end_yellow_apple_seeds" }
+    }
+}

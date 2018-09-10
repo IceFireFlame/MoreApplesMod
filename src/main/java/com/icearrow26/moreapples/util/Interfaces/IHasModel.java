@@ -1,4 +1,4 @@
-package com.icearrow26.moreapples.util;
+package com.icearrow26.moreapples.util.Interfaces;
 
 public interface IHasModel {
 	

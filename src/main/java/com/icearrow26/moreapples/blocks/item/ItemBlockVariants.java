@@ -1,6 +1,6 @@
 package com.icearrow26.moreapples.blocks.item;
 
-import com.icearrow26.moreapples.util.IMetaName;
+import com.icearrow26.moreapples.util.Interfaces.IMetaName;
 
 import net.minecraft.block.Block;
 import net.minecraft.item.ItemBlock;
@@ -20,7 +20,6 @@ public class ItemBlockVariants extends ItemBlock {
 	
 	@Override
 	public String getUnlocalizedName(ItemStack stack) {
-		// TODO Auto-generated method stub
 		return super.getUnlocalizedName() + "_" + ((IMetaName)this.block).getSpecialName(stack);
 	}
 }

@@ -1,11 +1,9 @@
-package com.icearrow26.moreapples.blocks;
+package com.icearrow26.moreapples.init;
 
 import com.icearrow26.moreapples.Main;
 import com.icearrow26.moreapples.blocks.item.ItemBlockVariants;
-import com.icearrow26.moreapples.init.ModBlocks;
-import com.icearrow26.moreapples.init.ModItems;
-import com.icearrow26.moreapples.util.IHasModel;
-import com.icearrow26.moreapples.util.IMetaName;
+import com.icearrow26.moreapples.util.Interfaces.IHasModel;
+import com.icearrow26.moreapples.util.Interfaces.IMetaName;
 import com.icearrow26.moreapples.util.handlers.EnumHandler;
 
 import net.minecraft.block.Block;
@@ -25,7 +23,7 @@ import net.minecraft.world.World;
 
 public class ModOres extends Block implements IHasModel, IMetaName {
 	public static final PropertyEnum<EnumHandler.EnumType> VARIANT = PropertyEnum.<EnumHandler.EnumType>create("variant", EnumHandler.EnumType.class);
-	private String name,dimension;
+	private String name, dimension;
 	public ModOres(String name, String dimension)
 	{
 		super(Material.ROCK);

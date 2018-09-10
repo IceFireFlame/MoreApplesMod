@@ -2,7 +2,7 @@ package com.icearrow26.moreapples.items.tools;
 
 import com.icearrow26.moreapples.Main;
 import com.icearrow26.moreapples.init.ModItems;
-import com.icearrow26.moreapples.util.IHasModel;
+import com.icearrow26.moreapples.util.Interfaces.IHasModel;
 
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.ItemSpade;
